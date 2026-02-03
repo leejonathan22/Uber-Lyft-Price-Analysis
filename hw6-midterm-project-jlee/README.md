@@ -1,4 +1,4 @@
-# Homework 6
+# Uber-Lyft-Price-Analysis, EDA STYLE
 A few instructions:
 
 1. First, clone this repository to your computer
